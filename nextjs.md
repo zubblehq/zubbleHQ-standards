@@ -7,11 +7,11 @@ project-root/
 │   │   ├── layout.js
 │   │   ├── page.js
 │   │   └── components/
-│   ├── api/         # API route handlers
+│   ├── api/         # API route handlers (App Router)
 │   ├── layout.js      # Root layout
 │   └── page.js        # Root page
 ├── pages/           # (Legacy) Next.js Pages Router (if used)
-│   ├── api/         # (Legacy) API routes
+│   ├── api/         # (Legacy) API routes (Pages Router - not recommended for new projects)
 │   └── ...
 ├── components/      # Reusable React components
 │   ├── ui/          # UI components (buttons, inputs, etc.)
