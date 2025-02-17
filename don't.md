@@ -1,4 +1,4 @@
-# 🚫 Things to AVOID When Building React Components 🚀
+# ⚠️ Things to AVOID When Building React Components 
 
 ## Cofount Labs - Mandatory React Coding Practices
 
